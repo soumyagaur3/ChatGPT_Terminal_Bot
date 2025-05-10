@@ -14,7 +14,7 @@ Before running this application, make sure you have the following:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/roshansingh10/ChatGPT-terminal-bot.git
+   git clone https://github.com/soumyagaur3/ChatGPT_Terminal_Bot
    ```
 
 2. Navigate to the project directory:
