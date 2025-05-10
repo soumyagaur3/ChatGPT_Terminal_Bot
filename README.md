@@ -56,11 +56,7 @@ If you want to modify the behavior of the chatbot, you can adjust the settings i
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or want to add new features, please create a pull request or submit an issue on the [GitHub repository](https://github.com/roshansingh10/ChatGPT-terminal-bot).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it according to your needs.
+Contributions are welcome! If you find any issues or want to add new features, please create a pull request or submit an issue on the [GitHub repository](https://github.com/soumyagaur3/ChatGPT_Terminal_Bot)).
 
 ## Disclaimer
 
@@ -68,4 +64,4 @@ This chatbot application is powered by OpenAI's language model, and its response
 
 ## Contact
 
-If you have any questions or suggestions regarding this application, feel free to contact the maintainer at [this mail](mailto:your-email@example.com).
+If you have any questions or suggestions regarding this application, feel free to contact the maintainer at [this mail](mailto:gaursoumya3@gmail.com).
